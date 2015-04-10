@@ -1,5 +1,51 @@
 body {
-	color: navy;
-	background-color: yellow;
+	color: black;
+	font-family: Helvetica, "courier new", arial;
+	background-image: url("http://thefunhouse.github.io/images/bluesky.jpg");
+}
+
+.mainheader {
+	text-align: center;
+}
+
+#headerimage {
+	height: 280px;
+	width: 650px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#slogan {
+	font-weight: 700;
+	text-align: center;
+	font-style: italic;
+}
+
+.introduction {
+	margin-left: auto;
+    margin-right: auto;
+    width:40em;
+    color: rgb(72,75,89);
+}
+
+#sellingpoints {
+    margin-left: auto;
+    margin-right: auto;
+    width:40em;
+    color: rgb(72,75,89);
+}
+
+#ruler {
+	width:200px;
+}
+
+#contact {
+	text-align: center;
+	font-size:25px;
+	color: rgba(72,75,89,0.5);
+}
+
+a {text-decoration: none !important;
 }
 
