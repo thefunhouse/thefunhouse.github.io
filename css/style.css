@@ -1,6 +1,6 @@
 body {
 	color: black;
-	font-family: Helvetica, "courier new", arial;
+	font-family:'Simonetta', cursive, Helvetica, "courier new", arial;
 	background-image: url("http://thefunhouse.github.io/images/bluesky.jpg");
 }
 
@@ -48,4 +48,5 @@ body {
 
 a {text-decoration: none !important;
 }
+
 
