@@ -1,0 +1,75 @@
+
+body {
+	font-family: Georgia, "Times New Roman", Serif;
+}
+
+nav {
+	/*background: rgb(210,205,247);
+	color: white;
+	padding: 3px 10px;*/
+}
+
+.column1 {
+	background-color: rgb(210,205,247);
+	width: 142px;
+	height: 150px;
+	padding: 5px 10px;
+	border: 0.5px solid black;
+}
+
+.column2 {
+	width: 1100px;
+	height: 150px;
+	padding: 5px 30px;
+	margin: 2px
+}
+
+
+section {
+	display: block;
+	float: left;
+}
+
+a {	
+	display: block;
+	float: left;
+	text-decoration: none;
+	color: black;
+	padding: 100px 100px;	
+}
+
+a:hover {
+	background-color: rgb(214, 212, 214);
+}
+
+h1 {
+	text-align: left;
+	color: white;
+}
+
+img {
+	width: 1100px;
+	height: auto;
+	margin: 0;
+}
+
+p {
+	background-color: rgb(210,205,247);
+	font-size: 18px;
+	margin: 0;
+	color: white;
+	display: block;
+	float: left;
+	width: 162px;
+	height: 400px;
+	text-align: center;
+}
+
+/*.clearfix: after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}*/
