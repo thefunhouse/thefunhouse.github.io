@@ -1,52 +1,221 @@
 body {
-	color: black;
+	font-size: 35px;
 	font-family:'Simonetta', cursive, Helvetica, "courier new", arial;
-	background-image: url("http://thefunhouse.github.io/images/bluesky.jpg");
 }
 
-.mainheader {
+p {
+	font-weight: bold;
+}
+
+section h2 {
+	color: #FFF;
+	font-size: 2em;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 80em;
+}
+
+header {
+	width: 100%;
+	height: 8em;
+	padding: 0;
+}
+
+#logo {
+	display: inline-block;
+	height:8em; 
+	width:8em;
+	float: left;
+}
+
+nav {
+	width: 100%;
+	margin-top: 1em;
+}
+
+nav a {
+	float: left;
+	text-decoration: none;
+	font-weight: bold;
+	margin-left: 6em;
+	font-size: 2em;
+	position: relative;
+	bottom: -3em;
+}
+
+a:hover {
+	color: #ffcc00;
+}
+
+#hero {
+	width: 100%;
+	height: 20em;
+	border-top: 0.5em solid #fff;
+	background-image: url("../images/web12.jpg");
+	background-position: top center;
 	text-align: center;
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.2em;
+	clear: both;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
 }
 
-#headerimage {
-	height: 280px;
-	width: 650px;
+#games {
+	color: #ffcc00;
+}
+
+#toys {
+	color: #ffcc00;
+}
+
+#hero button {
+	width: 8em;
+	height: 3em;
+	border-radius: 1em;
+	background-color: #336699;
 	display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#slogan {
-	font-weight: 700;
 	text-align: center;
-	font-style: italic;
+	margin: 0 auto;
+	font-size: 1.5em;
+	font-family: Helvetica, Sans-serif;
+	margin-top: 1em;
+	background-color: #ffcc00;
+	color: #336699;
+	position: relative;
+	bottom: -4.5em;
 }
 
-.introduction {
-	margin-left: auto;
-    margin-right: auto;
-    width:40em;
-    color: rgb(72,75,89);
+#hero button:hover {
+	background-color: #336699;
+	color: #fff;
 }
 
-#sellingpoints {
-    margin-left: auto;
-    margin-right: auto;
-    width:40em;
-    color: rgb(72,75,89);
-}
-
-#ruler {
-	width:200px;
-}
-
-#contact {
+#funhousestore button {
+	width: 5em;
+	height: 3em;
+	border-radius: 1em;
+	background-color: #336699;
+	display: block;
 	text-align: center;
-	font-size:25px;
-	color: rgba(72,75,89,0.5);
+	margin: 0 auto;
+	font-size: 1.5em;
+	font-family: Helvetica, Sans-serif;
+	margin-top: 1em;
+	background-color: #ffcc00;
+	color: #336699;
+	position: relative;
+	bottom: -5.8em;
+	right: -8.0em;
 }
 
-a {text-decoration: none !important;
+#funhousestore button:hover {
+	background-color: #336699;
+	color: #fff;
 }
 
+#learningcenter button {
+	width: 5em;
+	height: 3em;
+	border-radius: 1em;
+	background-color: #336699;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 1.5em;
+	font-family: Helvetica, Sans-serif;
+	margin-top: 1em;
+	background-color: #ffcc00;
+	color: #336699;
+	position: relative;
+	bottom: -5.8em;
+	right: -11.0em;
+}
 
+#learningcenter button:hover {
+	background-color: #336699;
+	color: #fff;
+}
+
+#hero h3 {
+	position: relative;
+	bottom: -2em;
+	background-color: #0000ff;
+	display: inline;
+	/*width: 100%;*/
+	margin: 0 auto;
+	font-size: 2.5em;
+}
+
+#funhousestore h2 {
+	position: relative;
+	right: -4em;
+}
+
+#learningcenter h2 {
+	position: relative;
+	right: -7em;
+}
+
+#column {
+	position: relative;
+}
+
+#funhousestore {
+	background-image: url("../images/web23.jpg");
+	width: 40%;
+	height: 20em;
+	display: inline-block;
+	text-align: center;
+	padding: 0.5em;
+}
+
+#learningcenter {
+	background-image: url("../images/web13.jpg");
+	width: 57%;
+	height: 20em;
+	text-align: center;
+	padding: 0.5em;
+	position: absolute;
+	right: 0px;
+	display: inline-block;
+}
+
+.column {
+	background-image: url("../images/web27.jpg");
+	background-position: top center;
+	width: 100%;
+	height: 20.5em;
+	display: inline-block;
+	text-align: center;
+	margin-top: 0.5em;
+}
+
+.column h3 {
+	position: relative;
+	right: -9em;
+	bottom: -4.5em;
+	width: 100%;
+	margin: 0 auto;
+	font-size: 2em;
+	color: white;
+}
+
+footer p {
+	font-size: 1.5em;
+	text-align: center;
+	bottom: 1em;
+	margin: 0;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+@media only screen and (max-width: 500px) {
+
+p {
+	font-size: 10em;
+}
