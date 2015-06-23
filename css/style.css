@@ -167,7 +167,7 @@ a:hover {
 	background-image: url("http://thefunhouse.github.io/images/Web23.jpg");
 	width: 40%;
 	height: 20em;
-	/*display: inline-block;*/
+	display: inline-block;
 	text-align: center;
 	padding: 0.5em;
 }
