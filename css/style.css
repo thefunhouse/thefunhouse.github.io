@@ -203,6 +203,10 @@ a:hover {
 	color: white;
 }
 
+.column button {
+	display: none;
+}
+
 footer p {
 	font-size: 1.5em;
 	text-align: center;
@@ -271,8 +275,8 @@ nav a {
 
 #hero h3 {
 	right: 0em;
-	bottom: -3em;
-	font-size: 1.2em;
+	bottom: -2em;
+	font-size: 1.7em;
 }
 
 #funhousestore {
@@ -289,6 +293,12 @@ nav a {
 }
 
 .column h3 {
+	right: -4.7em;
+	bottom: -6.3em;
+	font-size: 1.2em;
+}
+
+.column button {
 	right: -4.7em;
 	bottom: -6.3em;
 	font-size: 1.2em;
