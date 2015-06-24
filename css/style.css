@@ -242,11 +242,9 @@ header {
 }
 
 #logo {
-	display: none;
 	height:4em; 
 	width:4em;
 }
-
 
 #hero {
 	height: 10em;
@@ -274,20 +272,16 @@ header {
 	font-size: 1.5em;
 }
 
-
 #funhousestore {
-	height: 10em;
 	display: none;
 }
 
 #learningcenter {
-	height: 10em;
 	display: none;
 }
 
 .column {
 	height: 10em;
-	display: none;
 }
 
 .column h3 {
