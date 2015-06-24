@@ -237,18 +237,20 @@ header {
 	height: 2em;
 }
 
-nav {
-	margin: 0;
-}
-
-nav a {
-	display: inline-block;
-	font-size: 2em;
-}
-
 #logo img {
 	display: none;
 }
+
+nav {
+	width: 50%;
+	margin-top: 0;
+}
+
+nav a {
+	display: block;
+	font-size: 2em;
+}
+
 
 #hero {
 	height: 15em;
