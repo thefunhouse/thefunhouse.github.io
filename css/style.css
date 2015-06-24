@@ -237,10 +237,9 @@ header {
 	height: 6em;
 }
 
-#logo {
+#logo img {
 	display: none;
 }
-
 
 #hero {
 	height: 30em;
