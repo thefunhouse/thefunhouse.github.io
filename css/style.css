@@ -251,6 +251,7 @@ nav a {
 
 #hero {
 	height: 15em;
+	background-size:auto 100%;
 }
 
 #hero button {
