@@ -223,7 +223,7 @@ footer a {
      height: 0;
      }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
 
 body {
 	font-size: 18px;
@@ -231,20 +231,20 @@ body {
 
 #wrapper {
 	margin: 0 auto;
-	width: 10em;
+	width: 750px;
 }
 
 header {
-	height: 6em;
+	height: 35px;
 }
 
 #logo {
-	height:2em; 
-	width:2em;
+	height:30px; 
+	width:15px;
 }
 
 #hero {
-	height: 5em;
+	height: 200px;
 }
 
 }
