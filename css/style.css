@@ -282,7 +282,7 @@ nav a {
 }
 
 #learningcenter {
-	background-image: url("http://thefunhouse.github.io/images/Web13.jpg");
+	display: none;
 }
 
 .column {
@@ -367,7 +367,7 @@ nav a {
 }
 
 #learningcenter {
-	display: none;
+	background-image: url("http://thefunhouse.github.io/images/Web13.jpg");
 }
 
 .column {
