@@ -321,5 +321,55 @@ nav a {
 footer p {
 	font-size: 1em;
 }
+}
+
+@media only screen and (max-width: 365px) {
+
+body {
+	font-size: 12px;
+}
+
+#wrapper {
+	width: 30em;
+}
+
+header {
+	height: 15px;
+}
+
+#logo {
+	display: none;
+}
+
+#logo img {
+	display: none;
+}
+
+nav {
+	margin-top: 0;
+}
+
+nav a {
+	float:none;
+	margin-left: 0.7em;
+	margin-right:2em;
+	bottom:0em;
+}
+
+#funhousestore {
+	display: none;
+}
+
+#learningcenter {
+	display: none;
+}
+
+.column {
+	display: none;
+}
+
+footer p {
+	font-size: 1em;
+}
 
 }
