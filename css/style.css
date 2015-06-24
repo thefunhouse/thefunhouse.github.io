@@ -18,7 +18,7 @@ section h2 {
 }
 
 header {
-	/*width: 100%;*/
+	width: 100%;
 	height: 8em;
 	padding: 0;
 }
@@ -50,10 +50,10 @@ a:hover {
 }
 
 #hero {
-	/*width: 100%;*/
+	width: 100%;
 	height: 20em;
 	border-top: 0.5em solid #fff;
-	background-image: url("../images/web12.jpg");
+	background-image: url("http://thefunhouse.github.io/images/Web12.jpg");
 	background-position: top center;
 	text-align: center;
 	color: white; 
@@ -164,7 +164,7 @@ a:hover {
 }
 
 #funhousestore {
-	background-image: url("../images/web23.jpg");
+	background-image: url("http://thefunhouse.github.io/images/Web23.jpg");
 	width: 40%;
 	height: 20em;
 	display: inline-block;
@@ -173,7 +173,7 @@ a:hover {
 }
 
 #learningcenter {
-	background-image: url("../images/web13.jpg");
+	background-image: url("http://thefunhouse.github.io/images/Web13.jpg");
 	width: 57%;
 	height: 20em;
 	text-align: center;
@@ -184,7 +184,7 @@ a:hover {
 }
 
 .column {
-	background-image: url("../images/web27.jpg");
+	background-image: url("http://thefunhouse.github.io/images/Web27.jpg");
 	background-position: top center;
 	width: 100%;
 	height: 20.5em;
@@ -225,7 +225,6 @@ footer a {
 	}
 
 	header {
-	/*width: 100%;*/
 	height: 4em;
 	padding: 0;
 	}
