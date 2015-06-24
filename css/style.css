@@ -234,7 +234,7 @@ body {
 }
 
 header {
-	height: 0em;
+	height: 15px;
 }
 
 #logo {
@@ -252,7 +252,7 @@ nav {
 nav a {
 	float:none;
 	margin-left: 1em;
-	font-size: 2em;
+	font-size: 1em;
 	bottom:0em;
 }
 
