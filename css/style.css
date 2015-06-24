@@ -242,6 +242,7 @@ header {
 }
 
 #logo {
+	display: none;
 	height:4em; 
 	width:4em;
 }
@@ -276,14 +277,17 @@ header {
 
 #funhousestore {
 	height: 10em;
+	display: none;
 }
 
 #learningcenter {
 	height: 10em;
+	display: none;
 }
 
 .column {
 	height: 10em;
+	display: none;
 }
 
 .column h3 {
