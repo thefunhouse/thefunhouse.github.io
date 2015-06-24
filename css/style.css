@@ -226,7 +226,7 @@ footer a {
 @media only screen and (max-width: 850px) {
 
 body {
-	font-size: 17px;
+	font-size: 23px;
 }
 
 #wrapper {
@@ -235,6 +235,14 @@ body {
 
 header {
 	height: 6em;
+}
+
+nav a {
+	float: left;
+	text-decoration: none;
+	font-weight: bold;
+	margin-left: 1em;
+	font-size: 2em;
 }
 
 #logo img {
@@ -275,7 +283,7 @@ section h2 {
 }
 
 footer p {
-	font-size: 2em;
+	font-size: 1em;
 }
 
 }
