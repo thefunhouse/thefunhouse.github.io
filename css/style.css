@@ -299,9 +299,21 @@ nav a {
 }
 
 .column button {
-	right: -4.7em;
-	bottom: -6.3em;
-	font-size: 1.2em;
+	width: 5em;
+	height: 3em;
+	border-radius: 1em;
+	background-color: #336699;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 1.5em;
+	font-family: Helvetica, Sans-serif;
+	margin-top: 1em;
+	background-color: #ffcc00;
+	color: #336699;
+	position: relative;
+	bottom: -6em;
+	right: -6em;
 }
 
 footer p {
