@@ -282,7 +282,7 @@ nav a {
 }
 
 #learningcenter {
-	display: none;
+	background-image: url("http://thefunhouse.github.io/images/Web13.jpg");
 }
 
 .column {
@@ -351,9 +351,15 @@ nav {
 
 nav a {
 	float:none;
-	margin-left: 0.7em;
-	margin-right:2em;
+	margin-left: 0em;
+	margin-right:4.5em;
 	bottom:0em;
+}
+
+#hero {
+	height: 17.5em;
+	background-size:auto 100%;
+	margin-bottom: 0.1em;
 }
 
 #funhousestore {
