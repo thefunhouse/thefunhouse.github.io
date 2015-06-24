@@ -289,7 +289,9 @@ nav a {
 }
 
 .column h3 {
-	font-size: 1em;
+	right: -4.7em;
+	bottom: -6.3em;
+	font-size: 1.2em;
 }
 
 footer p {
