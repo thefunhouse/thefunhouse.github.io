@@ -234,16 +234,14 @@ body {
 }
 
 header {
-	height: 6em;
+	height: 1em;
 }
 
 nav {
-	margin: 0 auto;
+	margin-top: 0;
 }
 
 nav a {
-	float: left;
-	text-decoration: none;
 	font-weight: bold;
 	font-size: 2em;
 }
