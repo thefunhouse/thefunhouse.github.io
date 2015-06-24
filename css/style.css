@@ -234,15 +234,15 @@ body {
 }
 
 header {
-	height: 1em;
+	height: 2em;
 }
 
 nav {
-	margin-top: 0;
+	margin: 0;
 }
 
 nav a {
-	font-weight: bold;
+	display: inline-block;
 	font-size: 2em;
 }
 
@@ -253,7 +253,6 @@ nav a {
 #hero {
 	height: 15em;
 	background-size:auto 140%;
-	background-repeat:no-repeat;
 }
 
 #hero button {
