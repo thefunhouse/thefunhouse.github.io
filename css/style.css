@@ -241,7 +241,7 @@ nav a {
 	float: left;
 	text-decoration: none;
 	font-weight: bold;
-	margin-left: 1em;
+	margin-left: 0;
 	font-size: 2em;
 }
 
@@ -250,16 +250,12 @@ nav a {
 }
 
 #hero {
-	height: 30em;
+	height: 15em;
 }
 
 #hero button {
 	width: 6em;
 	height: 3em;
-}
-
-section h2 {
-	font-size: 1em;
 }
 
 #hero h3 {
@@ -275,7 +271,7 @@ section h2 {
 }
 
 .column {
-	height: 20em;
+	height: 10em;
 }
 
 .column h3 {
@@ -283,7 +279,7 @@ section h2 {
 }
 
 footer p {
-	font-size: 1em;
+	font-size: 1.5em;
 }
 
 }
