@@ -229,44 +229,31 @@ body {
 	font-size: 17px;
 }
 
-section h2 {
-	font-size: 1em;
-}
-
 #wrapper {
 	width: 40em;
 }
 
 header {
-	height: 4em;
+	height: 6em;
 }
 
 #logo {
-	height:4em; 
-	width:4em;
+	display: none;
 }
+
 
 #hero {
-	height: 10em;
+	height: 30em;
 }
-
 
 #hero button {
-	width: 4em;
-	height: 1.5em;
+	width: 6em;
+	height: 3em;
 }
 
-
-#funhousestore button {
-	width: 3em;
-	height: 1.5em;
+section h2 {
+	font-size: 1em;
 }
-
-#learningcenter button {
-	width: 3em;
-	height: 1.5em;
-}
-
 
 #hero h3 {
 	font-size: 1.5em;
@@ -281,7 +268,7 @@ header {
 }
 
 .column {
-	height: 10em;
+	height: 20em;
 }
 
 .column h3 {
@@ -289,7 +276,7 @@ header {
 }
 
 footer p {
-	font-size: 0.5em;
+	font-size: 2em;
 }
 
 }
