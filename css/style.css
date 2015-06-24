@@ -250,8 +250,11 @@ nav {
 }
 
 nav a {
+	float:none;
 	margin-left: 1em;
 	font-size: 2em;
+	position: none;
+	bottom:0;
 }
 
 
