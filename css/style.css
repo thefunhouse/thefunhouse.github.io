@@ -102,8 +102,8 @@ a:hover {
 	font-size: 1.5em;
 	font-family: Helvetica, Sans-serif;
 	margin-top: 1em;
-	background-color: #ffcc00;
-	color: #336699;
+	background-color: #AA8347;
+	color: white;
 	position: relative;
 	bottom: -5.8em;
 	right: -8.0em;
@@ -124,8 +124,8 @@ a:hover {
 	font-size: 1.5em;
 	font-family: Helvetica, Sans-serif;
 	margin-top: 1em;
-	background-color: #ffcc00;
-	color: #336699;
+	background-color: #502900;
+	color: white;
 	position: relative;
 	bottom: -5.8em;
 	right: -11.0em;
@@ -372,10 +372,14 @@ nav a {
 	display: none;
 }
 
+section h2 {
+	font-size: 1em;
+}
+
 #learningcenter {
 	background-image: url("http://thefunhouse.github.io/images/Web13.jpg");
 	background-size:auto 100%;
-	width: 100%;
+	width: 96%;
 	height: 15em;
 	text-align: center;
 	padding: 0.5em;
@@ -386,10 +390,10 @@ nav a {
 	width: 5em;
 	height: 3em;
 	font-size: 1em;
-	background-color: #ffcc00;
-	color: #336699;
-	bottom: -6em;
-	right: -14em;
+	background-color: #502900;
+	color: white;
+	bottom: -8em;
+	right: -7em;
 }
 
 .column {
