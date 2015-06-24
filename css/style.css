@@ -257,7 +257,7 @@ nav a {
 }
 
 #hero {
-	height: 15em;
+	height: 17.5em;
 	background-size:auto 140%;
 }
 
@@ -266,7 +266,7 @@ nav a {
 	height: 3.5em;
 	font-size: 1em;
 	position: relative;
-	bottom: -3.5em;
+	bottom: -4.5em;
 }
 
 #hero h3 {
