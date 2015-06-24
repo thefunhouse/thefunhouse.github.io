@@ -226,25 +226,76 @@ footer a {
 @media only screen and (max-width: 850px) {
 
 body {
-	font-size: 18px;
+	font-size: 17px;
+}
+
+section h2 {
+	font-size: 1em;
 }
 
 #wrapper {
-	margin: 0 auto;
-	width: 750px;
+	width: 40em;
 }
 
 header {
-	height: 35px;
+	height: 4em;
 }
 
 #logo {
-	height:30px; 
-	width:15px;
+	display: none;
+	height:4em; 
+	width:4em;
 }
 
+
 #hero {
-	height: 200px;
+	height: 10em;
+}
+
+
+#hero button {
+	width: 4em;
+	height: 1.5em;
+}
+
+
+#funhousestore button {
+	width: 3em;
+	height: 1.5em;
+}
+
+#learningcenter button {
+	width: 3em;
+	height: 1.5em;
+}
+
+
+#hero h3 {
+	font-size: 1.5em;
+}
+
+
+#funhousestore {
+	height: 10em;
+	display: none;
+}
+
+#learningcenter {
+	height: 10em;
+	display: none;
+}
+
+.column {
+	height: 10em;
+	display: none;
+}
+
+.column h3 {
+	font-size: 1em;
+}
+
+footer p {
+	font-size: 0.5em;
 }
 
 }
