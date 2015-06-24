@@ -75,7 +75,6 @@ a:hover {
 	width: 8em;
 	height: 3em;
 	border-radius: 1em;
-	background-color: #336699;
 	display: block;
 	text-align: center;
 	margin: 0 auto;
@@ -97,7 +96,6 @@ a:hover {
 	width: 5em;
 	height: 3em;
 	border-radius: 1em;
-	background-color: #336699;
 	display: block;
 	text-align: center;
 	margin: 0 auto;
@@ -120,7 +118,6 @@ a:hover {
 	width: 5em;
 	height: 3em;
 	border-radius: 1em;
-	background-color: #336699;
 	display: block;
 	text-align: center;
 	margin: 0 auto;
@@ -255,7 +252,8 @@ nav {
 
 nav a {
 	float:none;
-	margin-left: 1em;
+	margin-left: 0.7em;
+	margin-right:4.2em;
 	font-size: 1em;
 	bottom:0em;
 }
