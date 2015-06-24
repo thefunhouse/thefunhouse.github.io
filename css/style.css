@@ -228,3 +228,25 @@ footer a {
 p {
 	font-size: 10em;
 }
+
+#wrapper {
+	margin: 0 auto;
+	width: 40em;
+}
+
+header {
+	width: 80%;
+	height: 6em;
+}
+
+#logo {
+	height:4em; 
+	width:4em;
+}
+
+#hero {
+	width: 80%;
+	height: 10em;
+}
+
+}
