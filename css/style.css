@@ -262,17 +262,17 @@ nav a {
 }
 
 #hero button {
-	width: 4.5em;
+	width: 8em;
 	height: 3.5em;
 	font-size: 1em;
 	position: relative;
-	bottom: -4.5em;
+	bottom: -5em;
 }
 
 #hero h3 {
 	right: 0em;
-	bottom: -5em;
-	font-size: 1.5em;
+	bottom: -3em;
+	font-size: 1.2em;
 }
 
 #funhousestore {
