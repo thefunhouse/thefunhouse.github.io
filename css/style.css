@@ -252,6 +252,7 @@ nav a {
 #hero {
 	height: 15em;
 	background-size:auto 100%;
+	background-repeat:no-repeat;
 }
 
 #hero button {
@@ -274,6 +275,7 @@ nav a {
 .column {
 	height: 10em;
 	background-size:auto 100%;
+	background-repeat:no-repeat;
 }
 
 .column h3 {
